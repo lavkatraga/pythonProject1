@@ -19,5 +19,4 @@ print("2x{}={}".format(b,2*b))
 b=10
 print("2x{}={}".format(b,2*b))
 
-a=10
-print("Hello")
+
